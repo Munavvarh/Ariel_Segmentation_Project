@@ -4,16 +4,15 @@ CS 301 Project for Semantic Segmentation of Satellite Imagery by Ahmed Tanvir an
 We will be implementing this project via google colab. 
 
 # Step 1: 
-
-Create a new repo under one Github account of a member of your team.
-We have created new repo under Github account of @tanvirA25. 
-here is the link of the repo : https://github.com/tanvirA25/Milestone-1/tree/Milestone1
+Create a new repo under one Github account of a member of your team.\n
+We have created new repo under Github account of @tanvirA25.\n
+here is the link of the repo : https://github.com/tanvirA25/Milestone-1/tree/Milestone1\n
 
 # step 2:
 
-Uploading the given seed repo for this project
-228_training_aerial_imagery.py
-simple_multi_unet_model.py
+Uploading the given seed repo for this project\n
+228_training_aerial_imagery.py\n
+simple_multi_unet_model.py\n
 
 # step 3:  
 
