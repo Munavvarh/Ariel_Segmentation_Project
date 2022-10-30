@@ -31,7 +31,7 @@ Installing NNI and testing it.
 ! ./ngrok authtoken 2GrWNANhHuh5SQg394e6DSTvdYT_88PY6QjcgoTVbK7x1emu4   #egisterd a ngrok account , then connected to our account using genrated authtoken.
 # Now, Starting an NNI example on a port bigger than 1024, then start ngrok with the same port.
 ! nnictl create --config nni_repo/nni/examples/trials/mnist-pytorch/config.yml --port 5000 & get_ipython().system_raw('./ngrok http 5000 &') 
-# Finally, checking the public url. 
+# Finally, checking the INNI UI in public url. 
 ! curl -s http://localhost:4040/api/tunnels # don't change the port number 4040
 
 Which sucesfully executed and below is attached picture of NNI UI:
