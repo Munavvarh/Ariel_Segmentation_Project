@@ -11,10 +11,11 @@ We have created new repo under Github account of @tanvirA25.
 here is the link of the repo : https://github.com/tanvirA25/Milestone-1/tree/Milestone1\n
 
 # step 2:
+Uploading the given seed repo for this project
 
-Uploading the given seed repo for this project\n
-228_training_aerial_imagery.py\n
-simple_multi_unet_model.py\n
+228_training_aerial_imagery.py
+
+simple_multi_unet_model.py
 
 # step 3:  
 
