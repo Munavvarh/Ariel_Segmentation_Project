@@ -42,9 +42,13 @@ Installing NNI and testing it.
 
 ! mkdir -p nni_repo
 
-! git clone https://github.com/microsoft/nni.git nni_repo/nni          # clone NNI's offical repo to get examples
+clone NNI's offical repo to get examples
 
-! ./ngrok authtoken 2GrWNANhHuh5SQg394e6DSTvdYT_88PY6QjcgoTVbK7x1emu4   #egisterd a ngrok account , then connected to our account using genrated authtoken.
+! git clone https://github.com/microsoft/nni.git nni_repo/nni          
+
+Registerd a ngrok account , then connected to our account using genrated authtoken.
+
+! ./ngrok authtoken 2GrWNANhHuh5SQg394e6DSTvdYT_88PY6QjcgoTVbK7x1emu4   
 
 Now, Starting an NNI example on a port bigger than 1024, then start ngrok with the same port.
 
