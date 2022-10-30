@@ -6,7 +6,7 @@ We will be implementing this project via google colab.
 # Step 1: 
 Create a new repo under one Github account of a member of your team.\
 We have created new repo under Github account of @tanvirA25.\
-here is the link of the repo : https://github.com/tanvirA25/Milestone-1/tree/Milestone1\n\
+here is the link of the repo : https://github.com/tanvirA25/Milestone-1/tree/Milestone1
 
 # step 2:
 Uploading the given seed repo for this project\
@@ -14,7 +14,7 @@ Uploading the given seed repo for this project\
 simple_multi_unet_model.py
 
 # step 3:  
-Install all required dependencies in colab. \
+Install all required dependencies in colab.\
 !pip install patchify \
 !pip install keras \
 !pip install segmentation_models \
