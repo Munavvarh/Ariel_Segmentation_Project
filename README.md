@@ -1,6 +1,6 @@
 # Milestone1-301
 
-CS 301 Project for Semantic Segmentation of Satellite Imagery by Ahmed Tanvir and Munavvarhusain Bunglawala.\
+CS 301 Project for Semantic Segmentation of Satellite Imagery by Ahmed Tanvir and Munavvarhusain Bunglawala.  
 We will be implementing this project via google colab. 
 
 # Step 1: 
