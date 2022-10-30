@@ -36,6 +36,5 @@ Installing NNI and testing it.
 
 Which sucesfully executed and below is attached picture of NNI UI:
 
-![NNI Image](https://user-images.githubusercontent.com/98997616/198892772-660a0710-098a-4450-88af-c3ca72f669cb.PNG)
-
+![INNI-UI](https://user-images.githubusercontent.com/113075133/198894843-c4c649de-a6a7-434d-8af8-c5ae8b6b72bd.png)
 
