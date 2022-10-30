@@ -27,8 +27,10 @@ Installing NNI and testing it. \
 ! wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip    # download ngrok and unzip it \
 ! unzip ngrok-stable-linux-amd64.zip \
 ! mkdir -p nni_repo \
-! git clone https://github.com/microsoft/nni.git nni_repo/nni  #clone NNI's offical repo to get examples  
-! ./ngrok authtoken 2GrWNANhHuh5SQg394e6DSTvdYT_88PY6QjcgoTVbK7x1emu4   # Registerd a ngrok account , then connected to our account using genrated authtoken.
+! git clone https://github.com/microsoft/nni.git nni_repo/nni  #clone NNI's offical repo to get examples 
+
+ Now, Registerd a ngrok account , then connected to our account using genrated authtoken.\
+! ./ngrok authtoken 2GrWNANhHuh5SQg394e6DSTvdYT_88PY6QjcgoTVbK7x1emu4  
 
 Now, Starting an NNI example on a port bigger than 1024, then start ngrok with the same port.\
 ! nnictl create --config nni_repo/nni/examples/trials/mnist-pytorch/config.yml --port 5000 & get_ipython().system_raw('./ngrok http 5000 &')\
