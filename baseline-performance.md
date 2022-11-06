@@ -9,6 +9,7 @@ From kaggle were able to get data containing the images and mask of satelight im
 
 
 
+![UNET img](https://user-images.githubusercontent.com/98997616/200198638-ea5aec85-d58f-49aa-8726-e6969e93ed54.PNG)
 
 
 ## Result of the plots 
