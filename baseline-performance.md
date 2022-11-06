@@ -11,8 +11,19 @@ From kaggle were able to get data containing the images and mask of satelight im
 
 
 
-## Result of the three plots 
+## Result of the plots 
 
-![plt1](https://user-images.githubusercontent.com/98997616/200198118-3a652ffd-6a43-4bfc-8955-bcd28ff408d4.PNG)
-![plt2](https://user-images.githubusercontent.com/98997616/200198119-038305cc-7a11-4007-9ed1-e745acbe3cf4.PNG)
-![plt3](https://user-images.githubusercontent.com/98997616/200198120-e8714754-e8c7-4b28-a666-a26a752146b1.PNG)
+![plt1](https://user-images.githubusercontent.com/98997616/200198118-3a652ffd-6a43-4bfc-8955-bcd28ff408d4.PNG)  
+![plt2](https://user-images.githubusercontent.com/98997616/200198119-038305cc-7a11-4007-9ed1-e745acbe3cf4.PNG)  
+![plt3](https://user-images.githubusercontent.com/98997616/200198120-e8714754-e8c7-4b28-a666-a26a752146b1.PNG)  
+
+
+## Result of the images and masks 
+
+
+![result1](https://user-images.githubusercontent.com/98997616/200198299-9bb3fc5f-df8c-4c07-8d35-c3177e6afa98.PNG)  
+![result2](https://user-images.githubusercontent.com/98997616/200198300-49641745-1380-4b3a-80cf-246f892c5b7c.PNG)  
+
+## Modifying the images and masks (extras)
+![img3](https://user-images.githubusercontent.com/98997616/200198392-8220ab7b-a0f2-4a59-b0ae-c905390bfd0c.PNG)  
+
