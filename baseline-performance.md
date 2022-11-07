@@ -16,22 +16,24 @@ The importat thing in the milestone was the unet. It demostrate the the localize
 
 ## Modifying the images and masks (extras)
 ![img3](https://user-images.githubusercontent.com/98997616/200198392-8220ab7b-a0f2-4a59-b0ae-c905390bfd0c.PNG)  
-Some modified images to see the effects of the processed image and max.
+Some modified images to see the effects of the processed image and mask image.
 
-
+## Result of the images and masks 
 ![result1](https://user-images.githubusercontent.com/98997616/200198299-9bb3fc5f-df8c-4c07-8d35-c3177e6afa98.PNG)  
 ![result2](https://user-images.githubusercontent.com/98997616/200198300-49641745-1380-4b3a-80cf-246f892c5b7c.PNG)  
 These aere the produced image. The 10 segmented images with mask image and predicted image.
 
+## Training and Validation loss vs epochs
+![plt1](https://user-images.githubusercontent.com/98997616/200198118-3a652ffd-6a43-4bfc-8955-bcd28ff408d4.PNG)  
+![plt2](https://user-images.githubusercontent.com/98997616/200198119-038305cc-7a11-4007-9ed1-e745acbe3cf4.PNG)  
+The compilation was consist of 100 epochs that produced with the loss and accurracy. The accuracy is somewhat close. The traning loss is little higher than the validation loss. 
 
 
 ## Result of the plots 
-
 ![plt3](https://user-images.githubusercontent.com/98997616/200198120-e8714754-e8c7-4b28-a666-a26a752146b1.PNG)  
 
+The precision and recall are about 0.5 so it yields to maximum recall.
 
-![plt1](https://user-images.githubusercontent.com/98997616/200198118-3a652ffd-6a43-4bfc-8955-bcd28ff408d4.PNG)  
-![plt2](https://user-images.githubusercontent.com/98997616/200198119-038305cc-7a11-4007-9ed1-e745acbe3cf4.PNG)  
-## Result of the images and masks 
+
 
 
