@@ -17,11 +17,11 @@ The importat thing in the milestone was the unet. It demostrate the the localize
 
 ## Result of the plots 
 
-![plt1](https://user-images.githubusercontent.com/98997616/200198118-3a652ffd-6a43-4bfc-8955-bcd28ff408d4.PNG)  
-![plt2](https://user-images.githubusercontent.com/98997616/200198119-038305cc-7a11-4007-9ed1-e745acbe3cf4.PNG)  
 ![plt3](https://user-images.githubusercontent.com/98997616/200198120-e8714754-e8c7-4b28-a666-a26a752146b1.PNG)  
 
 
+![plt1](https://user-images.githubusercontent.com/98997616/200198118-3a652ffd-6a43-4bfc-8955-bcd28ff408d4.PNG)  
+![plt2](https://user-images.githubusercontent.com/98997616/200198119-038305cc-7a11-4007-9ed1-e745acbe3cf4.PNG)  
 ## Result of the images and masks 
 
 
