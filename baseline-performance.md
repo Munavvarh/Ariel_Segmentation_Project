@@ -14,6 +14,16 @@ The importat thing in the milestone was the unet. It demostrate the the localize
 
 ![UNET img](https://user-images.githubusercontent.com/98997616/200198638-ea5aec85-d58f-49aa-8726-e6969e93ed54.PNG)
 
+## Modifying the images and masks (extras)
+![img3](https://user-images.githubusercontent.com/98997616/200198392-8220ab7b-a0f2-4a59-b0ae-c905390bfd0c.PNG)  
+Some modified images to see the effects of the processed image and max.
+
+
+![result1](https://user-images.githubusercontent.com/98997616/200198299-9bb3fc5f-df8c-4c07-8d35-c3177e6afa98.PNG)  
+![result2](https://user-images.githubusercontent.com/98997616/200198300-49641745-1380-4b3a-80cf-246f892c5b7c.PNG)  
+These aere the produced image. The 10 segmented images with mask image and predicted image.
+
+
 
 ## Result of the plots 
 
@@ -24,10 +34,4 @@ The importat thing in the milestone was the unet. It demostrate the the localize
 ![plt2](https://user-images.githubusercontent.com/98997616/200198119-038305cc-7a11-4007-9ed1-e745acbe3cf4.PNG)  
 ## Result of the images and masks 
 
-
-![result1](https://user-images.githubusercontent.com/98997616/200198299-9bb3fc5f-df8c-4c07-8d35-c3177e6afa98.PNG)  
-![result2](https://user-images.githubusercontent.com/98997616/200198300-49641745-1380-4b3a-80cf-246f892c5b7c.PNG)  
-
-## Modifying the images and masks (extras)
-![img3](https://user-images.githubusercontent.com/98997616/200198392-8220ab7b-a0f2-4a59-b0ae-c905390bfd0c.PNG)  
 
