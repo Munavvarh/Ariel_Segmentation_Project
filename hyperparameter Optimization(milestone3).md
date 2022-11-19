@@ -14,8 +14,9 @@ Due to Tuning Hyperparamater Optimization comes into place. In this Milestone ma
 
 # Explaning our Assigned method Hyperband 
 
-Hyperband is a variation of random search, but with some explore-exploit theory to find the best time allocation for each of the configurations. It is described in details in [1].   
-A good introduction to this algorithm is the successive halving algorithm:  
+Hyperband is a sophisticated algorithm for hyperparameter optimization. The creators of the method framed the problem of hyperparameter optimization as a pure-exploration, non-stochastic, infinite armed bandit problem. When employing Hyperband, a resource (such as iterations, data samples, or features) is chosen and allocated to randomly sampled configurations. The model is then trained with each configuration, stopping training combinations that perform badly and providing more resources to potential configurations. Hyperband is a variation of random search, but with some explore-exploit theory to find the best time allocation for each of the configurations. It is described in details in [1]. 
+
+***successive halving:***  
 
 Randomly sample 64 hyper-parameter sets in the search space.  
 Evaluate after 100 iterations the validation loss of all these.  
@@ -24,6 +25,8 @@ Run the good ones for 100 iterations more and evaluate.
 Discard a half.  
 Run the good ones for 200 iterations more and evaluate.  
 Repeat till you have only one model left.  
+
+![hyperband](https://user-images.githubusercontent.com/98997616/202865044-09cea9e9-2bbe-418d-a627-6ab22f9b449f.JPG)
 
 This approach requires a repetition specification (which can be set so that the first model assessment occurs after a couple of epochs) and a total budget of repetitions (which will set the total number of explored configurations).Successive halving suffers from what is called the “n vs B/n” trade-off in [1]. B is the total budget to be allocated for hyper-parameter search, and n denotes the number of configurations to be searched. The average amount of resource allocated to a certain configuration is denoted by B/n. For a given budget, it is unclear whether to search for a big number of configurations (large n) in a short period of time, or to investigate a small number of configurations while spending a large amount of resources to them (large B/n). If hyper-parameter configurations can be prejudiced rapidly for a given problem (if the dataset converges quickly, bad structures reveal themselves rapidly, or the hyper-parameter search space is not chosen wisely enough so that a randomly chosen one is likely to be very bad), then n should be large. If they are sluggish to identify (or if the search space is limited but the best configuration is sought with strong certainty), B/n should be large (at the expense of the number of tested configurations).
 
