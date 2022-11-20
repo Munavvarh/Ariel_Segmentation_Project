@@ -39,7 +39,7 @@ On several real-world tests,[1] shows that a basic successive halving with a cor
 
 # Result of images Tile 5 Method (Hyperband)
 ![My project-1 (1)](https://user-images.githubusercontent.com/113075133/202917500-69a4d611-de2e-4646-ae45-fff54845bdfb.png)
-![My project-1 (2)](https://user-images.githubusercontent.com/113075133/202917506-5793ca79-ded9-4ff5-99af-62ca188d1f43.png)
+![My project-1 (2)](https://user-images.githubusercontent.com/113075133/202917558-cd980e92-06f8-48bc-8ede-194d191bff76.png)
 ![My project-1 (3)](https://user-images.githubusercontent.com/113075133/202917512-caee91b3-6f57-44b5-a444-d43c5050cb42.png)
 
 
