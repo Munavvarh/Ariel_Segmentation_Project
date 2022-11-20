@@ -46,5 +46,6 @@ On several real-world tests,[1] shows that a basic successive halving with a cor
 # Result of Training and validation loss vs. epochs:  
 
 # Result of Precision and Recall Values:  
+![image](https://user-images.githubusercontent.com/113075133/202925700-dc84fe28-b0ca-4906-a1fd-b0c0029b4056.png)
 
 
