@@ -466,7 +466,7 @@ IOU_keras = MeanIoU(num_classes=n_classes)
 IOU_keras.update_state(y_test_argmax, y_pred_argmax)
 print("Mean IoU =", IOU_keras.result().numpy())
 
-
+# loss vs accuracy result of hyperband
 eval_result = model.evaluate(X_train, y_train)
 print("[test loss, test accuracy]:", eval_result)
 
