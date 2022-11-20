@@ -36,8 +36,12 @@ On several real-world tests,[1] shows that a basic successive halving with a cor
 
 # Resources
 [1] Li, Lisha, Kevin Jamieson, Giulia DeSalvo, Afshin Rostamizadeh, and Ameet Talwalkar. “Hyperband: A novel bandit-based approach to hyperparameter optimization.” arXiv preprint arXiv:1603.06560 (2016).
+![My project-1 (1)](https://user-images.githubusercontent.com/113075133/202917393-633140b2-96ae-4e49-a746-e4c90cfb1f23.png)
+![My project-1 (2)](https://user-images.githubusercontent.com/113075133/202917401-088221c0-099f-49c6-94c4-5ffa19545096.png)
+![My project-1 (3)](https://user-images.githubusercontent.com/113075133/202917405-885743a8-549a-4193-a7aa-765fbf12daed.png)
 
 # Result of images Tile 5 Method (Hyperband)
+
 
 # Result of Training and validation loss vs. epochs:  
 
