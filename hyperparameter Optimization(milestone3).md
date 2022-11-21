@@ -29,9 +29,10 @@ On several real-world tests,[1] shows that a basic successive halving with a cor
 
 # Resources
 [1] Li, Lisha, Kevin Jamieson, Giulia DeSalvo, Afshin Rostamizadeh, and Ameet Talwalkar. “Hyperband: A novel bandit-based approach to hyperparameter optimization.” arXiv preprint arXiv:1603.06560 (2016).
+https://www.tensorflow.org/tutorials/keras/keras_tuner
 
 ![image](https://user-images.githubusercontent.com/113075133/202935011-e15bdb3d-a0af-40d8-aebb-8c914db59626.png)
-In our program we created a model that introduces the hyperparameter in for the hyperband to be implemented. Using the hyperband function we were able to produce better images because of the configurations and sample accesed after trainig the data. 
+Using keras created a model function in our program that introduces the hyperparameter. Through the hyperparameter function hyperband function was implemented. Using the hyperband function we were able to produce better images because of the configurations and sample accesed after trainig the data. 
 
 # Result of images 
 ![My project-1 (1)](https://user-images.githubusercontent.com/113075133/202917500-69a4d611-de2e-4646-ae45-fff54845bdfb.png)
