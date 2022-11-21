@@ -11,7 +11,7 @@ Due to the tuning, Hyperparamater Optimization comes into place. In this Milesto
 
 ![image](https://user-images.githubusercontent.com/113075133/202832875-64a204d3-b23c-4571-924b-fdd993dfc42f.png)
 
-# Explaning our Assigned method Hyperband 
+# Explaning of the method Hyperband 
 
 Hyperband is a sophisticated algorithm for hyperparameter optimization. The creators of the method framed the problem of hyperparameter optimization as a pure-exploration, non-stochastic, infinite armed bandit problem. When employing Hyperband, a resource (such as iterations, data samples, or features) is chosen and allocated to randomly sampled configurations. The model is then trained with each configuration, stopping training combinations that perform badly and providing more resources to potential configurations. Hyperband is a variation of random search, but with some explore-exploit theory to find the best time allocation for each of the configurations. It is described in details in [1]. 
 
@@ -34,7 +34,7 @@ https://www.tensorflow.org/tutorials/keras/keras_tuner
 ![image](https://user-images.githubusercontent.com/113075133/202935011-e15bdb3d-a0af-40d8-aebb-8c914db59626.png)
 Using keras created a model function in our program that introduces the hyperparameter. Through the hyperparameter function hyperband function was implemented. Using the hyperband function we were able to produce better images because of the configurations and sample accesed after trainig the data. 
 
-# Result of images 
+# Result of final images 
 ![My project-1 (1)](https://user-images.githubusercontent.com/113075133/202917500-69a4d611-de2e-4646-ae45-fff54845bdfb.png)
 ![My project-1 (2)](https://user-images.githubusercontent.com/113075133/202917558-cd980e92-06f8-48bc-8ede-194d191bff76.png)
 ![My project-1 (3)](https://user-images.githubusercontent.com/113075133/202917512-caee91b3-6f57-44b5-a444-d43c5050cb42.png)
