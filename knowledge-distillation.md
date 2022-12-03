@@ -23,3 +23,5 @@ An optimizer for the student and (optional) metrics to evaluate performance
 In the train_step method, we perform a forward pass of both the teacher and student, calculate the loss with weighting of the student_loss and distillation_loss by alpha and 1 - alpha, respectively, and perform the backward pass. Note: only the student weights are updated, and therefore we only calculate the gradients for the student    weights.  
 
 
+# Resources   
+https://arxiv.org/pdf/1503.02531.pdf
