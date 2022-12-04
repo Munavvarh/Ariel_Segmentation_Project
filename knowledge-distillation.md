@@ -35,7 +35,7 @@ We alrealdy had the coding done by milestone 2. The code was used from seed repo
 
 # 10 Segmented Images
 ![image](https://user-images.githubusercontent.com/113075133/205519536-7c0a1c0b-25bd-4fc5-b2bb-c4710f8fa2fd.png)
-![image](https://user-images.githubusercontent.com/113075133/205519555-fbccc887-3e65-4837-9ad8-5dbd8598edc8.png)
+![image](https://user-images.githubusercontent.com/113075133/205519614-1aa9beae-767d-4219-8c15-98c348259c9a.png)
 ![image](https://user-images.githubusercontent.com/113075133/205519571-03fc1709-ced0-48f3-9fcc-1616a1750553.png)
 
 
