@@ -28,3 +28,10 @@ In the train_step method, we perform a forward pass of both the teacher and stud
 https://arxiv.org/pdf/1503.02531.pdf
 
 The implemention was done using the code from Milestone-2. With segmentation code obtain from github. A student model was includent to match with teacher model we had in the program. After implemnting all the classes for knoledge distillation we faced problem of making it compatible with our previous code. After that only 10 images were sampled from large dataset. We trained the model with teacher and student model. After that the sample were validated through the student class compiging the student loss functions and the prediction. After many tries with 50 epoch we got our result of segmented images and training and validations graphs. The loss was same as previous code but this time it didn't require as much as gpu. We were able to run the program with half the ram as previous implementation. THe compression and the distillation functions helped to minimise gpu use. 
+
+# Results   
+![ml4-plo1](https://user-images.githubusercontent.com/98997616/205514304-9545df34-e8ec-4926-92bc-35b5a88d0703.JPG)  
+![ml4-plot2](https://user-images.githubusercontent.com/98997616/205514308-4f345b2d-69ab-406a-bb8c-28d09c492179.JPG)  
+![ml4-plot3](https://user-images.githubusercontent.com/98997616/205514310-e88478c4-6206-4311-bd8a-280c6687333f.JPG)  
+
+
