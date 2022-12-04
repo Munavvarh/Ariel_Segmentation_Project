@@ -49,4 +49,4 @@ There was slight validation loss but overall it was pretty close to the result o
 
 # Precision vs Recall
 ![ml4-plot3](https://user-images.githubusercontent.com/98997616/205514310-e88478c4-6206-4311-bd8a-280c6687333f.JPG)  
-Precision and recall value are very close to precision and recall from milestone 2.
+Precision and recall values are very close to precision and recall from milestone 2.
