@@ -41,13 +41,12 @@ We alrealdy had the coding done by milestone 2. The code was used from seed repo
 The images were similar to the images gotten in Milestone 2. 
 
 
-# Traiaing and Validation loss vs epochs
+# Training and Validation loss vs epochs
 ![ml4-plo1](https://user-images.githubusercontent.com/98997616/205514304-9545df34-e8ec-4926-92bc-35b5a88d0703.JPG)  
-
+There was slight validation loss but overall it was pretty close to the result obtained in milestone 2.
 
 ![ml4-plot2](https://user-images.githubusercontent.com/98997616/205514308-4f345b2d-69ab-406a-bb8c-28d09c492179.JPG)  
 
 # Precision vs Recall
 ![ml4-plot3](https://user-images.githubusercontent.com/98997616/205514310-e88478c4-6206-4311-bd8a-280c6687333f.JPG)  
-
-
+Precision and recall value are very close to precision and recall from milestone 2.
