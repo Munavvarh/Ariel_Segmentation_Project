@@ -27,4 +27,4 @@ In the train_step method, we perform a forward pass of both the teacher and stud
 # Resources   
 https://arxiv.org/pdf/1503.02531.pdf
 
-The implemention was done using the code from Milestone-2. With segmentation code obtain from github. A student model was includent to match with teacher model we had in the program. 
+The implemention was done using the code from Milestone-2. With segmentation code obtain from github. A student model was includent to match with teacher model we had in the program. After implemnting all the classes for knoledge distillation we faced problem of making it compatible with our previous code. After many tries with 5 epoch we got our result of segmented images and training and validations graphs. 
