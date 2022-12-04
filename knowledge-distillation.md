@@ -2,6 +2,7 @@
 Members: ***Ahmed Tanvir*** & ***Munavvarhusain Bunglawala***
 We will be implementing the Milestone-4 work in Google Colab for the environment of the project.  
 
+In this assignment we needed to compress the model to fit a computer that may not have accelator GPU or enough memory. To compress we need to implement Knowledge - distillation.
 
 # Introduction to Knowledge Distillation  
 Knowledge Distillation is a procedure for model compression, in which a small (student) model is trained to match a large pre-trained (teacher) model. Knowledge is transferred from the teacher model to the student by minimizing a loss function, aimed at matching softened teacher logits as well as ground-truth labels.  
