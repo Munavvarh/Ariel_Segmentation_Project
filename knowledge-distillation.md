@@ -41,10 +41,10 @@ We alrealdy had the coding done by milestone 2. The code was used from seed repo
 The images were similar to the images gotten in Milestone 2. 
 
 
-# Traiaing Validation
+# Traiaing and Validation loss vs epochs
 ![ml4-plo1](https://user-images.githubusercontent.com/98997616/205514304-9545df34-e8ec-4926-92bc-35b5a88d0703.JPG)  
 
-# Valindation loss vs epochs
+
 ![ml4-plot2](https://user-images.githubusercontent.com/98997616/205514308-4f345b2d-69ab-406a-bb8c-28d09c492179.JPG)  
 
 # Precision vs Recall
