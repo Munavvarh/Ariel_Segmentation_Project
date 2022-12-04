@@ -26,3 +26,5 @@ In the train_step method, we perform a forward pass of both the teacher and stud
 
 # Resources   
 https://arxiv.org/pdf/1503.02531.pdf
+
+The implemention was done using the code from Milestone-2. With segmentation code obtain from github. A student model was includent to match with teacher model we had in the program. 
