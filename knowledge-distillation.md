@@ -38,7 +38,6 @@ We alrealdy had the coding done by milestone 2. The code was used from seed repo
 ![image](https://user-images.githubusercontent.com/113075133/205519614-1aa9beae-767d-4219-8c15-98c348259c9a.png)
 ![image](https://user-images.githubusercontent.com/113075133/205519571-03fc1709-ced0-48f3-9fcc-1616a1750553.png)
 
-The images were similar to the images gotten in Milestone 2. 
 
 
 # Training and Validation loss vs epochs
